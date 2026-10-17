@@ -1,4 +1,4 @@
-Algorithm
+#Algorithm
 
 Step 1: Start the program.
 
