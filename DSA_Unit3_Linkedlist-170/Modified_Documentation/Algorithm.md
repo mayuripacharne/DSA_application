@@ -1,4 +1,5 @@
 #Algorithm
+
 Step 1: Start the program.
 
 Step 2: Display the main menu.
