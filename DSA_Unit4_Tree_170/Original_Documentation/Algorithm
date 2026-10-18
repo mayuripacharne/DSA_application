@@ -1,1 +1,31 @@
+#Algorithm
 
+Step 1: Start the program.
+
+Step 2: Create a node structure containing data, left pointer, right pointer, and height.
+
+Step 3: Initialize the root of the AVL tree as NULL.
+
+Step 4: Accept the number of integers from the user.
+
+Step 5: Read the integers one by one and insert them into the AVL tree.
+
+Step 6: Calculate the height and balance factor of each node.
+
+Step 7: If the tree becomes unbalanced, perform the appropriate AVL rotation:
+Left-Left (LL) Rotation
+Right-Right (RR) Rotation
+Left-Right (LR) Rotation
+Right-Left (RL) Rotation
+
+Step 8: Perform inorder traversal (Left → Root → Right).
+
+Step 9: Perform preorder traversal (Root → Left → Right).
+
+Step 10: Perform postorder traversal (Left → Right → Root).
+
+Step 11: Perform level-order traversal using a queue.
+
+Step 12: Display the results of all four traversals.
+
+Step 13: Stop the program.
