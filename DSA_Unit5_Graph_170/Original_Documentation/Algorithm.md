@@ -18,6 +18,6 @@ Step8: Apply Dijkstra’s algorithm to calculate the shortest distance.
 
 Step9: Display the shortest route and its total distance.
 
-        If the destination is unreachable, display an appropriate message.
+ If the destination is unreachable, display an appropriate message.
 
 Step10: Stop the program.
