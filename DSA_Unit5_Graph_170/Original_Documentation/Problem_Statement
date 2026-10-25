@@ -1,4 +1,4 @@
-#PROBLEM STATEMENT
+Problem Statement
 
 Develop a C++ program to represent a transport network using a weighted graph, where transport stops are represented as vertices and routes between stops are
 represented as weighted edges.
