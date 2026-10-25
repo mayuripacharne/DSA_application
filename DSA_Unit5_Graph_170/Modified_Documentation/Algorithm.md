@@ -1,23 +1,29 @@
 #ALGORITHM
 
 Step1: Start the program.
- 
-Step2: Define the transport stops as vertices.
 
-Step3: Represent the routes and their distances using a weighted adjacency matrix.
+Step2: Create an initial weighted graph representing the transport network.
 
-Step4: Apply Prim’s algorithm to find the Minimum Spanning Tree.
+Step3: Display the initial transport stops and routes.
 
-Step5: Display the selected edges and total MST cost.
+Step4: Perform graph traversal using BFS.
 
-Step6: Check whether all vertices are connected.
+Step5: Apply Prim’s algorithm to calculate the MST and its total cost.
 
-Step7: Select the source and destination stops.
+Step6: Apply Dijkstra’s algorithm to find the shortest route between the selected stops.
 
-Step8: Apply Dijkstra’s algorithm to calculate the shortest distance.
+Step7: Display the initial results.
 
-Step9: Display the shortest route and its total distance.
+Step8: Ask the user whether to add a new transport stop or a new route.
 
-If the destination is unreachable, display an appropriate message.
+Step9: Update the graph according to the user's choice.
 
-Step10: Stop the program.
+Step10: Perform BFS, Prim’s algorithm, and Dijkstra’s algorithm again.
+
+Step11: Check for disconnected vertices and unavailable paths.
+
+Step12: Compare the results before and after the update.
+
+Step13:Display the updated results and appropriate messages.
+
+Step14:Stop the program.
