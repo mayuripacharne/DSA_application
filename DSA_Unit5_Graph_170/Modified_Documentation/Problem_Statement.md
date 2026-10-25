@@ -1,8 +1,3 @@
 #PROBLEM STATEMENT
 
-Develop a C++ program to represent a transport network using a weighted graph, where transport stops are represented as vertices and routes between stops are
-represented as weighted edges.
-Apply Prim’s algorithm to calculate the minimum cost required to connect all transport stops using a Minimum Spanning Tree (MST).
-Also, apply Dijkstra’s algorithm to find the shortest route from a selected source stop to a destination stop.
-Display the selected edges of the MST, the total network connection cost, the shortest route, and the minimum distance between the selected stops.
-If the graph is disconnected or no route exists between the selected stops, display an appropriate message.
+Develop a C++ program to represent a transport network as a weighted graph, where transport stops are vertices and routes are weighted edges. Apply Prim’s algorithm to calculate the Minimum Spanning Tree and Dijkstra’s algorithm to find the shortest route between selected stops. Modify the program to allow users to add new transport stops or routes dynamically. Display the graph traversal, MST, and shortest-path results before and after an update, and compare the results to identify changes in network connectivity, total connection cost, and shortest distance. The program should also handle disconnected vertices and unavailable paths by displaying appropriate messages.
