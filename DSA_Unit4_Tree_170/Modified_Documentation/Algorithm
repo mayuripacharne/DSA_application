@@ -1,0 +1,17 @@
+Algorithm
+
+Step 1: Start the program.
+Step 2: Initialize the AVL tree root as NULL.
+Step 3: Accept integers from the user and insert them into the AVL tree.
+Step 4: Calculate the height and balance factor of each node.
+Step 5: Perform the appropriate AVL rotation if the tree becomes unbalanced.
+Step 6: Display a menu containing the following options:
+Display all traversals.
+Insert additional values.
+Verify inorder sorted order.
+Exit.
+Step 7: If the user selects Display Traversals, perform inorder, preorder, postorder, and level-order traversals and display each node with its balance factor.
+Step 8: If the user selects Insert Additional Values, accept new integers, insert them into the existing AVL tree, and rebalance the tree whenever required.
+Step 9: If the user selects Verify Inorder, check whether the inorder traversal is sorted. Display PASS if sorted; otherwise, display FAIL.
+Step 10: Repeat the menu until the user selects Exit.
+Step 11: Stop the program.
